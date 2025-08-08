@@ -1,7 +1,8 @@
 {
-  "name": "server",
+  "name": "echo-chat-server",
   "version": "1.0.0",
   "main": "server.js",
+  "author": "Vedant Wahane",
   "scripts": {
     "server": "nodemon server.js",
     "start": "node server.js"
